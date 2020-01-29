@@ -1,6 +1,6 @@
 # CP2-HM1-computational-works-deconstruct
 
-##project 1: THAW: Hybrid Interactions with Phones on Computer Screens-https://vimeo.com/105950126
+## project 1: THAW: Hybrid Interactions with Phones on Computer Screens-https://vimeo.com/105950126
 ---
 Data | Render |Simulation |Event
 ------------ | ------------- | ------------- | -------------
